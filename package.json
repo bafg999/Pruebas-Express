@@ -1,0 +1,26 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "Pruebas Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bafg999/Pruebas-Express.git"
+  },
+  "author": "Brian Florez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bafg999/Pruebas-Express/issues"
+  },
+  "homepage": "https://github.com/bafg999/Pruebas-Express#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
